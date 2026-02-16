@@ -67,6 +67,7 @@ https://dl.espressif.com/dl/package_esp32_index.json
 
 > نکته: بعضی از ماژول‌های OLED دارای پایه‌های متفاوت یا برچسب متفاوت هستند. همیشه با دیتاشیت مطمئن شو.
 datasheet:
+![Setup](https://github.com/mehrdadmb2/ESP32-DHT22-OLED-Monitor/blob/main/Pic/com-03-071-new-8.jpg)
 
 📸 تصاویر پروژه (بخش Pic):
 ![Setup](https://github.com/mehrdadmb2/ESP32-DHT22-OLED-Monitor/blob/main/Pic/1.jpg)
