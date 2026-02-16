@@ -143,7 +143,7 @@
 
 ---
 
-می‌خوای من همینو بهت فایل `README.md` آماده کنم تا مستقیم بذاری تو گیت؟
+
 ```
 لینک قطعات :
 https://thecaferobot.com/store/female-female-40p-21cm
