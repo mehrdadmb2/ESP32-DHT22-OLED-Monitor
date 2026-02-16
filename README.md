@@ -145,3 +145,7 @@
 
 می‌خوای من همینو بهت فایل `README.md` آماده کنم تا مستقیم بذاری تو گیت؟
 ```
+لینک قطعات :
+https://thecaferobot.com/store/female-female-40p-21cm
+https://thecaferobot.com/store/dht22-digital-temperature-and-humidity-sensor
+https://thecaferobot.com/store/esp32-wemos-oled-wifi-bluetooth-development-board
